@@ -1,0 +1,1 @@
+Esse projeto representa uma bateria online, onde utilizou-se de JavaScript puro para a criação de sua funcionalidade.
